@@ -32,4 +32,5 @@ curl localhost:3000/health
 ```
 
 ## Screenshots
-Add screenshots of the Jenkins stage view (all green) and the image on DockerHub here.
+
+<img width="1194" height="764" alt="Screenshot 2026-10-02 143238" src="https://github.com/user-attachments/assets/548dcf4c-54e4-4415-80d4-6ebe35c87c25" />
