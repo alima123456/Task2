@@ -33,4 +33,11 @@ curl localhost:3000/health
 
 ## Screenshots
 
-<img width="1194" height="764" alt="Screenshot 2026-10-02 143238" src="https://github.com/user-attachments/assets/548dcf4c-54e4-4415-80d4-6ebe35c87c25" />
+<img width="1885" height="882" alt="Screenshot 2026-10-02 143050" src="https://github.com/user-attachments/assets/93668f18-abbb-4eec-9a71-8b4a8b65b26f" />
+<img width="563" height="167" alt="Screenshot 2026-10-02 143152" src="https://github.com/user-attachments/assets/02e5e8d2-67a8-4e2d-bfa9-a4951a72ef67" />
+<img width="1194" height="764" alt="Screenshot 2026-10-02 143238" src="https://github.com/user-attachments/assets/073650fb-ffdc-4064-997f-b63a73492bb2" />
+<img width="995" height="206" alt="image" src="https://github.com/user-attachments/assets/ff2895b3-66c8-4c4e-aa0e-a59fe604d26d" />
+
+
+
+
